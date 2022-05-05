@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: rgb(68, 64, 64);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 80px;
+  align-items: center;
+  border-radius: 10px;
+  margin: 3px;
+}
+.expense-item {
+  background-color: rgb(26, 25, 25);
+  padding: 4px;
+  border-radius: 10px;
+}
+.expense-item-price {
+  background-color: blueviolet;
+  padding: 5px;
+  border-radius: 10px;
+}
